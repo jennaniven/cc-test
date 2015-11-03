@@ -1,0 +1,16 @@
+{
+"GMessage": "What can I call you?",
+"questions": [
+	{
+		"sequence": "get all movies",
+		"question": ["movie", "current", "no", "no"],
+		"expected":""
+	}
+	],
+	
+"bounds": "",
+"terms": "What's in Theaters - Terms of Use",
+"privacy": "IBM Online Privacy Statement Highlights - United States",
+"dialogIntro": "Chat with Watson to discover new and upcoming movies by genre and rating.",
+"chatboxText": "Start typing..."
+}
